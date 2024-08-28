@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:myfirstgame/Resources/Private/Language/locallang_csh_tx_myfirstgame_domain_model_highscore.xlf" date="2024-08-28T12:45:12Z" product-name="myfirstgame">
+		<header/>
+		<body>
+			<trans-unit id="points.description" resname="points.description">
+				<source>points</source>
+			</trans-unit>
+			<trans-unit id="player.description" resname="player.description">
+				<source>player</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

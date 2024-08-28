@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:myfirstgame/Resources/Private/Language/locallang_db.xlf" date="2024-08-28T12:45:12Z" product-name="myfirstgame">
+		<header/>
+		<body>
+			<trans-unit id="tx_myfirstgame_domain_model_player" resname="tx_myfirstgame_domain_model_player">
+				<source>Player</source>
+			</trans-unit>
+			<trans-unit id="tx_myfirstgame_domain_model_player.description" resname="tx_myfirstgame_domain_model_player.description">
+				<source>Player</source>
+			</trans-unit>
+			<trans-unit id="tx_myfirstgame_domain_model_player.nickname" resname="tx_myfirstgame_domain_model_player.nickname">
+				<source>Nickname</source>
+			</trans-unit>
+			<trans-unit id="tx_myfirstgame_domain_model_player.nickname.description" resname="tx_myfirstgame_domain_model_player.nickname.description">
+				<source>Nickname</source>
+			</trans-unit>
+			<trans-unit id="fe_users.tx_extbase_type.Tx_Myfirstgame_Player" resname="fe_users.tx_extbase_type.Tx_Myfirstgame_Player">
+				<source>My First Game Player</source>
+			</trans-unit>
+			<trans-unit id="tx_myfirstgame.tx_extbase_type" resname="tx_myfirstgame.tx_extbase_type">
+				<source>Record Type</source>
+			</trans-unit>
+			<trans-unit id="tx_myfirstgame_domain_model_highscore" resname="tx_myfirstgame_domain_model_highscore">
+				<source>Highscore</source>
+			</trans-unit>
+			<trans-unit id="tx_myfirstgame_domain_model_highscore.description" resname="tx_myfirstgame_domain_model_highscore.description">
+				<source>Highscore</source>
+			</trans-unit>
+			<trans-unit id="tx_myfirstgame_domain_model_highscore.points" resname="tx_myfirstgame_domain_model_highscore.points">
+				<source>Points</source>
+			</trans-unit>
+			<trans-unit id="tx_myfirstgame_domain_model_highscore.points.description" resname="tx_myfirstgame_domain_model_highscore.points.description">
+				<source>Points</source>
+			</trans-unit>
+			<trans-unit id="tx_myfirstgame_domain_model_highscore.player" resname="tx_myfirstgame_domain_model_highscore.player">
+				<source>Player</source>
+			</trans-unit>
+			<trans-unit id="tx_myfirstgame_domain_model_highscore.player.description" resname="tx_myfirstgame_domain_model_highscore.player.description">
+				<source>Player</source>
+			</trans-unit>
+			<trans-unit id="tx_myfirstgame_highscore.name" resname="tx_myfirstgame_highscore.name">
+				<source>Highscore</source>
+			</trans-unit>
+			<trans-unit id="tx_myfirstgame_highscore.description" resname="tx_myfirstgame_highscore.description">
+				<source>Display highscore list of our game.</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

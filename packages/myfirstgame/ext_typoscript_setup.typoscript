@@ -1,0 +1,15 @@
+
+config.tx_extbase {
+  persistence {
+    classes {
+
+      Hellsfoul\Myfirstgame\Domain\Model\Player {
+        mapping {
+          tableName = fe_users
+          recordType = Tx_Myfirstgame_Player
+        }
+      }
+
+    }
+  }
+}

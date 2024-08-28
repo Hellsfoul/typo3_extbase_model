@@ -1,0 +1,14 @@
+plugin.tx_myfirstgame_highscore {
+    view {
+        # cat=plugin.tx_myfirstgame_highscore/file; type=string; label=Path to template root (FE)
+        templateRootPath = EXT:myfirstgame/Resources/Private/Templates/
+        # cat=plugin.tx_myfirstgame_highscore/file; type=string; label=Path to template partials (FE)
+        partialRootPath = EXT:myfirstgame/Resources/Private/Partials/
+        # cat=plugin.tx_myfirstgame_highscore/file; type=string; label=Path to template layouts (FE)
+        layoutRootPath = EXT:myfirstgame/Resources/Private/Layouts/
+    }
+    persistence {
+        # cat=plugin.tx_myfirstgame_highscore//a; type=string; label=Default storage PID
+        storagePid =
+    }
+}
