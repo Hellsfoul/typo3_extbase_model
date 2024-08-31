@@ -6,4 +6,4 @@ Link to tutorial on youtube from Slavee (channel: T3 Campus): https://www.youtub
 I followed the tutorial and got this code present in this repository.
 
 1. Replace composer.json, with the one provided. This will install Typo3 v11.5 and the addon myfirstgame.
-2. In Typo3 backend goto Maintenance -> Analysze Database Structure  and let Typo3 create the tables.
+2. In Typo3 backend goto Maintenance -> Analyze Database Structure  and let Typo3 create the tables.
